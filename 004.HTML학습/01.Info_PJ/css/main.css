@@ -63,7 +63,7 @@ ul {
   /* font-weight:bold 를 보통 많이씀 */
 
   /* 글자크기 fz */
-  font-size: 40px;
+  font-size: 70px;
 
   /* 글자색 c */
   color: deepskyblue;
@@ -116,7 +116,7 @@ ul {
   /* 웹폰트 적용하기 */
   font-family: "Jua", sans-serif;
   /* 글자크기 fz */
-  font-size: 25px;
+  font-size: 30px;
   /* 글자색 c */
   color: darkcyan;
   /* 기본 밑줄 없앰! tdn */
@@ -136,6 +136,8 @@ ul {
   text-decoration: overline;
   /* 줄종류변경tds : 파도모양 wavy */
   text-decoration-style: wavy;
+  /* 그림자 생성 ts */
+  text-shadow: 2px 2px 2px #0000004b;
 }
 
 /* 네이버 로고 */
